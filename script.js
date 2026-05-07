@@ -16,7 +16,7 @@ const nombreAffiche = document.getElementById("nombre");
         dejaClique = false;
 
 }
-setInterval( genererNombre, 2000);
+setInterval( genererNombre, 500);
 
 let Score = 0;
 
